@@ -1,0 +1,15 @@
+FormField = 0, 0, 0, 0, C
+FormFields = 0, 0, 0, 0, C
+frmInformazioni = 0, 0, 0, 0, C, 44, 58, 516, 498, C
+frmErrorLog = 0, 0, 0, 0, C, 66, 87, 538, 527, C
+frmToolBars = 22, 29, 724, 471, , 88, 116, 560, 556, C
+frmOption = 0, 0, 0, 0, C, 110, 145, 582, 585, C
+Globali = 44, 58, 528, 494, 
+frmMain = 44, 58, 544, 494, Z, 22, 29, 494, 469, CZ
+ModMain = 66, 66, 505, 527, 
+Activities = 132, 174, 993, 642, 
+ModGestShortCut = 110, 145, 971, 613, 
+modHTMLHelp = 0, 0, 0, 0, C
+frmTipoTrattenute = 0, 0, 702, 442, , 154, 203, 835, 645, C
+frmTipoTrattenuteRaggr = 0, 0, 756, 442, , 132, 174, 913, 616, C
+frmPrezzoMedio = 132, 174, 904, 616, , 66, 87, 874, 529, C
