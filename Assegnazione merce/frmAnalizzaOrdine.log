@@ -1,0 +1,2 @@
+Riga 870: la classe MSComctlLib.ProgressBar del controllo PBOrdine non era una classe di controllo caricata.
+Riga 884: la classe MSComctlLib.ProgressBar del controllo PBOrdineDettaglio non era una classe di controllo caricata.
