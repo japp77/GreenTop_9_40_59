@@ -1,0 +1,4 @@
+Riga 1304: la classe MSComctlLib.ListView del controllo lvwScadenze non era una classe di controllo caricata.
+Riga 1340: la classe MSComctlLib.ListView del controllo lvwIVA non era una classe di controllo caricata.
+Riga 1385: la classe MSComctlLib.ListView del controllo lvwArticoli non era una classe di controllo caricata.
+Riga 3875: la classe MSComctlLib.StatusBar del controllo stbStatusbar non era una classe di controllo caricata.
