@@ -1,0 +1,2 @@
+Riga 4568: la classe MSComctlLib.ProgressBar del controllo ProgressBar1 non era una classe di controllo caricata.
+Riga 4687: la classe MSComctlLib.StatusBar del controllo stbStatusbar non era una classe di controllo caricata.
