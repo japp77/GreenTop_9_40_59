@@ -1,0 +1,9 @@
+FormField = 132, 174, 648, 620, 
+FormFields = 22, 29, 712, 385, 
+frmInformazioni = 0, 0, 0, 0, C, 44, 58, 535, 504, C
+frmErrorLog = 0, 0, 0, 0, C, 22, 29, 513, 475, C
+frmToolBars = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmOption = 0, 0, 0, 0, C, 88, 116, 579, 562, C
+Globali = 110, 145, 626, 591, 
+frmMain = 110, 145, 601, 591, , 66, 87, 557, 533, C
+ModMain = 88, 116, 667, 562, Z
