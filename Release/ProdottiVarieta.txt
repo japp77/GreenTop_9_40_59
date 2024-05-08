@@ -1,0 +1,829 @@
+1 - 1 - ABATE                              
+1 - 2 - BARACCA                            
+1 - 3 - BEBECO                             
+1 - 4 - BOCCUCCIA                          
+1 - 5 - BOCCUCCIA LISCIA                   
+1 - 6 - BOCCUCCIA SPINOSA                  
+1 - 7 - BULIDA                             
+1 - 8 - CAFONA                             
+1 - 9 - CALDESI 1                          
+1 - 10 - CANINO                             
+1 - 11 - CANINO TARDIO                      
+1 - 12 - CANNETTA                           
+1 - 13 - CREMONINI                          
+1 - 14 - DEFARGES                           
+1 - 15 - DON GAETANO                        
+1 - 16 - EARLIRIL                           
+1 - 17 - FARMIGDALE                         
+1 - 18 - FRACASSO                           
+1 - 19 - FRASCO                             
+1 - 20 - GUERRIERO                          
+1 - 21 - HATIF COLOMER                      
+1 - 22 - IVONNE LIVERANI                    
+1 - 23 - MONACO BELLO                       
+1 - 24 - MONIQUI                            
+1 - 25 - MONTEDORO                          
+1 - 26 - NENNELLA                           
+1 - 27 - NONNO                              
+1 - 28 - NUGGET                             
+1 - 29 - OVARDI                             
+1 - 30 - PALUMMELLA                         
+1 - 31 - PAVIOT                             
+1 - 32 - PAZZA                              
+1 - 33 - PELESE DI GIOVAN.                  
+1 - 34 - PELLECCHIELLA                      
+1 - 35 - PERENS                             
+1 - 36 - POLONAIS                           
+1 - 37 - PORTICI                            
+1 - 38 - PRECOCE D'IMOLA                    
+1 - 39 - PRECOCE D'ITALIA                   
+1 - 40 - PRECOCE DI BOULBON                 
+1 - 41 - PRECOCE TOLOMEI                    
+1 - 42 - PRETE                              
+1 - 43 - REALE D'IMOLA                      
+1 - 44 - RIVIERA                            
+1 - 45 - S. CASTRESE                        
+1 - 46 - SCAREARA                           
+1 - 47 - SETACCIARA                         
+1 - 48 - SUNGIANT                           
+1 - 49 - TARDIF DE BORDANEIL                
+1 - 50 - TYRIMKA                            
+1 - 51 - TYRINTHOS                          
+1 - 52 - VALVENOSTA                         
+1 - 53 - VITILLO                            
+1 - 54 - ZEPPA DI SISCO                     
+1 - 999 - ALTRE VARIETA'                     
+2 - 1 - BELLA DI CESENA                    
+2 - 2 - BOTTO                              
+2 - 3 - CHARLES INGOUF                     
+2 - 4 - EARLY BABCOCK                      
+2 - 5 - FROST QUEEN                        
+2 - 6 - GENADIX 6                          
+2 - 7 - GREZZANO                           
+2 - 8 - IRIS ROSSO                         
+2 - 9 - KAPPA 2                            
+2 - 10 - LIANA BARUZZI                      
+2 - 11 - MARIA BIANCA                       
+2 - 12 - MAY FLOWER                         
+2 - 13 - MICHELINI                          
+2 - 14 - MORETTINI 5/14                     
+2 - 15 - PAOLA CAVICCHI PRECOCE             
+2 - 16 - PIERI 81                           
+2 - 17 - PRIMEROSE                          
+2 - 18 - REGINA DI LONDRA                   
+2 - 19 - ROSA DEL WEST                      
+2 - 20 - S. ANNA BALDUCCI                   
+2 - 21 - SPRINGTIME                         
+2 - 22 - SUPERGEM                           
+2 - 23 - TRIESTINA                          
+2 - 24 - VALERIA                            
+2 - 25 - APPIA                              
+2 - 26 - ARMGOLD                            
+2 - 27 - AURELIA                            
+2 - 28 - AUTUMN GLO'                        
+2 - 29 - BABIOLE                            
+2 - 30 - CARDINAL                           
+2 - 31 - CARNIVAL                           
+2 - 32 - CORONET                            
+2 - 33 - CRESTHAVEN                         
+2 - 34 - DIXERED                            
+2 - 35 - DIXIGEM                            
+2 - 36 - DOMIZIANA                          
+2 - 37 - DORATA TARDIVA                     
+2 - 38 - EARLY CORONET                      
+2 - 39 - EARLY CREST                        
+2 - 40 - EARLY O'HENRY                      
+2 - 41 - EARLY REDHAVEN                     
+2 - 42 - ELEGANT LADY                       
+2 - 43 - EMILIA                             
+2 - 44 - FAIRHEAVEN                         
+2 - 45 - FAIRTIME                           
+2 - 46 - FAVORITA                           
+2 - 47 - FAYETTE                            
+2 - 48 - FIRERED                            
+2 - 49 - FLAMECREST                         
+2 - 50 - FLAMINIA                           
+2 - 51 - FLAVORCREST                        
+2 - 52 - FLAVORTOP                          
+2 - 53 - FORTYNINER                         
+2 - 54 - FRANCISCAN                         
+2 - 55 - GEM FREE                           
+2 - 56 - GLOHAVEN                           
+2 - 57 - HALE                               
+2 - 58 - HALE BENZI                         
+2 - 59 - HARBRITE                           
+2 - 60 - HARKEN                             
+2 - 61 - JERSEYLAND                         
+2 - 62 - JULIA SETTEMBRINA                  
+2 - 63 - JULY LADY                          
+2 - 64 - JUNE GOLD                          
+2 - 65 - LAURE                              
+2 - 66 - LISBETH                            
+2 - 67 - MAGNOLIA                           
+2 - 68 - MARIA LUISA                        
+2 - 69 - MAYCREST                           
+2 - 70 - O'HENRY                            
+2 - 71 - PRODIGIOSA                         
+2 - 72 - RED CAP                            
+2 - 73 - RED SKIN                           
+2 - 74 - REDCAL                             
+2 - 75 - REDHAVEN                           
+2 - 76 - REDTOP                             
+2 - 77 - REGINA                             
+2 - 78 - ROSSA DI TRENTI                    
+2 - 79 - ROYAL APRIL                        
+2 - 80 - ROYAL GOLD                         
+2 - 81 - ROZA                               
+2 - 82 - RUBIRED                            
+2 - 83 - S. HUNSHINE                        
+2 - 84 - SOUTHLAND                          
+2 - 85 - SPRING GOLD                        
+2 - 86 - SPRING LADY                        
+2 - 87 - SPRINGCREST                        
+2 - 88 - STARK EARLIGLO                     
+2 - 89 - SUMMERSET                          
+2 - 90 - SUNCREST                           
+2 - 91 - SUNDACE                            
+2 - 92 - SUNHEAVEN                          
+2 - 93 - SUNSHINE                           
+2 - 94 - SUWANEE                            
+2 - 95 - VELLUTATA                          
+2 - 96 - VELLUTATA DI HOLLYWOOD             
+2 - 97 - VIVID                              
+2 - 98 - W2                                 
+2 - 99 - MERRYL JIMMI                       
+2 - 100 - MERRYL ELEGANT                     
+2 - 101 - MORNIG SUN                         
+2 - 102 - CAMDEN                             
+2 - 103 - STARK LATE                         
+2 - 104 - BELLA DI GIUGNO                    
+2 - 105 - JULY BERT                          
+2 - 999 - ALTRE VARIETA'                     
+3 - 1 - ADRIATICA                          
+3 - 2 - ANDROSS                            
+3 - 3 - BABYGOLD 5                         
+3 - 4 - BABYGOLD 6                         
+3 - 5 - BABYGOLD 7                         
+3 - 6 - BABYGOLD 8                         
+3 - 7 - BABYGOLD 9                         
+3 - 8 - BOWEN                              
+3 - 9 - CARSON                             
+3 - 10 - CATHERINA                          
+3 - 11 - CORONADO                           
+3 - 12 - DIXON                              
+3 - 13 - EVERTS                             
+3 - 14 - FEDERICA                           
+3 - 15 - FORTUNA                            
+3 - 16 - GOLDEN QUEEN                       
+3 - 17 - GOODMANS CHOICE                    
+3 - 18 - HERRINGTON                         
+3 - 19 - JUNGERMAN                          
+3 - 20 - LAMPETELLA                         
+3 - 21 - LOADEL                             
+3 - 22 - MARIA SERENA                       
+3 - 23 - MERRIAM                            
+3 - 24 - MOUNTAINGOLD                       
+3 - 25 - SHASTA                             
+3 - 26 - SUDANELL                           
+3 - 27 - SUNCLING                           
+3 - 28 - SWEENY                             
+3 - 29 - TEBANA                             
+3 - 30 - TERZAROLA II                       
+3 - 31 - TOKANE                             
+3 - 32 - TROUBADOR                          
+3 - 33 - TUFTS                              
+3 - 34 - VESUVIO                            
+3 - 35 - VILLA ADA                          
+3 - 36 - VILLA ADRIANA                      
+3 - 37 - VILLA DORIA                        
+3 - 38 - VILLA GIULIA                       
+3 - 39 - VIVIAN                             
+3 - 40 - WALGANT                            
+3 - 999 - ALTRE VARIETA'                     
+4 - 1 - ANDERSON                           
+4 - 2 - ANDROMEDA                          
+4 - 3 - ARMKING                            
+4 - 4 - ARMQUEEN                           
+4 - 5 - CASSIOPEA                          
+4 - 6 - CRIMSON GOLD                       
+4 - 7 - CROCE DEL SUD                      
+4 - 8 - EARLY SUNGRAND                     
+4 - 9 - FAIRLANE                           
+4 - 10 - FANTASIA                           
+4 - 11 - FIREBRITE                          
+4 - 12 - FLAVORTOP                          
+4 - 13 - FUZALODE                           
+4 - 14 - INDEPENDENCE                       
+4 - 15 - KAY GRAND                          
+4 - 16 - MARIA AURELIA                      
+4 - 17 - MARIA EMILIA                       
+4 - 18 - MARIA LAURA                        
+4 - 19 - MAY BELLE                          
+4 - 20 - MAYGRAND                           
+4 - 21 - MID GOLD                           
+4 - 22 - MOON GRAND                         
+4 - 23 - MORTON                             
+4 - 24 - NECTAGRAND 4                       
+4 - 25 - NECTAROSS                          
+4 - 26 - NIAGARA                            
+4 - 27 - PEGASO                             
+4 - 28 - RED DIAMOND                        
+4 - 29 - ROYAL GIANT                        
+4 - 30 - SNOW QUEEN                         
+4 - 31 - SPRING RED                         
+4 - 32 - STARK DELICIOUS                    
+4 - 33 - STARK EARLIBLAZE                   
+4 - 34 - STARK JUNGLO                       
+4 - 35 - STARK REDGOLD                      
+4 - 36 - SUMMERGRAND                        
+4 - 37 - SUN GRAND                          
+4 - 38 - SUPERCRIMSON                       
+4 - 39 - TASTY FREE                         
+4 - 40 - TOM GRAND                          
+4 - 41 - WEIMBERGER                         
+4 - 42 - MARIA CARLA                        
+4 - 999 - ALTRE VARIETA'                     
+5 - 1 - AVORIO                             
+5 - 2 - BELLA ITALIA                       
+5 - 3 - BIGARREAUX                         
+5 - 4 - BING                               
+5 - 5 - BURLAT                             
+5 - 6 - BURLAT Cl                          
+5 - 7 - DURONE DELL'ANELLA                 
+5 - 8 - DURONE DELLA MARCA                 
+5 - 9 - DURONE DI CESENA                   
+5 - 10 - DURONE NERO I                      
+5 - 11 - DURONE NERO II                     
+5 - 12 - FERROVIA                           
+5 - 13 - FLAMENGO                           
+5 - 14 - GAMBOLO'                           
+5 - 15 - GAVORGNANA                         
+5 - 16 - GROSSE GERMERSDORFER               
+5 - 17 - HEDELFINGEN                        
+5 - 18 - LAMBERT                            
+5 - 19 - LARIAN                             
+5 - 20 - MERAV. DELL'ALPONE                 
+5 - 21 - MORA DI CAZZANO                    
+5 - 22 - MOREAU                             
+5 - 23 - NERO II Cl                         
+5 - 24 - ROMANA                             
+5 - 25 - SANDRA PRECOCE                     
+5 - 26 - SMIRNE                             
+5 - 27 - STELLA                             
+5 - 28 - ULSTER                             
+5 - 29 - VAN                                
+5 - 30 - VENUS                              
+5 - 31 - VITTORIA                           
+5 - 32 - AMARENA DI PESCARA                 
+5 - 33 - AMARENA DI FRANCAVILLA             
+5 - 34 - AMARENA DI VERONA                  
+5 - 35 - AMARENA DI VIGNOLA                 
+5 - 36 - AMARENA METEOR                     
+5 - 37 - CIGANY MEGGY 59                    
+5 - 38 - ERDI BOTERMO                       
+5 - 39 - FANAL                              
+5 - 40 - MARASCA DEL SALUZZESE              
+5 - 41 - MARASCA DI SAVENA                  
+5 - 42 - MARTAI MEGGY                       
+5 - 43 - MONTMORENCY                        
+5 - 44 - PARASZT MEGGY                      
+5 - 45 - RICHMORENCY                        
+5 - 46 - SCHATTENMORELLE                    
+5 - 47 - SPANSKA                            
+5 - 48 - VISCIOLA DEL CAMALESE              
+5 - 999 - ALTRE VARIETA'                     
+6 - 1 - ANNA SPATH                         
+6 - 2 - BLUEFRE                            
+6 - 3 - BURBANK                            
+6 - 4 - BURMOSA                            
+6 - 5 - CALIFORNIA BLUE                    
+6 - 6 - CALITA                             
+6 - 7 - CLAUDIA                            
+6 - 8 - EARLY GOLDEN                       
+6 - 9 - EMPRESS                            
+6 - 10 - FLORENTIA                          
+6 - 11 - FORMOSA                            
+6 - 12 - FRIAR                              
+6 - 13 - FRONTIER                           
+6 - 14 - GIANT                              
+6 - 15 - GILBERT                            
+6 - 16 - IMPERIAL EPINEUSE 449              
+6 - 17 - IMPERIAL EPINEUSE 851              
+6 - 18 - LARODA                             
+6 - 19 - LINCOLN                            
+6 - 20 - MASCINA DI MONTEPULC.              
+6 - 21 - MORETTINI 335                      
+6 - 22 - NUBIANA                            
+6 - 23 - OBILNAJA                           
+6 - 24 - ONEIDA                             
+6 - 25 - OZARK PREMIER                      
+6 - 26 - POBEDA                             
+6 - 27 - POND'S SEEDLING                    
+6 - 28 - PRESIDENT                          
+6 - 29 - QUEEN ROSA                         
+6 - 30 - REALE IMOLA                        
+6 - 31 - REDROY                             
+6 - 32 - REGINA CLAUDIA                     
+6 - 33 - REGINA VITTORIA                    
+6 - 34 - ROYALE DE MONTAUBAN                
+6 - 35 - RUTH GERSTETTER                    
+6 - 36 - SANGUE DI DRAGO                    
+6 - 37 - SANTA CLARA                        
+6 - 38 - SANTA ROSA                         
+6 - 39 - SENECA                             
+6 - 40 - SHIRO                              
+6 - 41 - SIMKA                              
+6 - 42 - SORRISO DI PRIMAVERA               
+6 - 43 - STANLEY                            
+6 - 44 - STARKING DELICIOUS                 
+6 - 45 - SUGAR                              
+6 - 46 - TIMPURI DE ALBACH                  
+6 - 47 - YAKIMA                             
+6 - 48 - ZUCCHELLA                          
+6 - 999 - ALTRE VARIETA'                     
+7 - 1 - ARGELINO                           
+7 - 2 - GROSSO LUNGO                       
+7 - 3 - GROSSO TONDO                       
+7 - 4 - NESPOLONE DI PALERMO               
+7 - 5 - PRECOCE DI PALERMO                 
+7 - 6 - TANAKA                             
+7 - 999 - ALTRE VARIETA'                     
+8 - 2 - AGARICO VELLUTATO
+8 - 3 - PLEUROTO
+8 - 4 - PORCINO
+8 - 5 - PRATAIOLO
+8 - 7 - TARTUFO BIANCO
+8 - 8 - TARTUFO NERO
+8 - 999 - ALTRE VARIETA
+101 - 1 - ABBONDANZA                         
+101 - 2 - ANNURCA                            
+101 - 3 - CARDINAL                           
+101 - 4 - DEMOCRAT                           
+101 - 5 - GOLDEN DELICIOUS SPUR              
+101 - 6 - GOLDEN DELICIOUS STANDARD          
+101 - 7 - GOLDEN SIMILI                      
+101 - 8 - GOLDJON                            
+101 - 9 - GRANNY SNITH                       
+101 - 10 - GRAVENSTEIN                        
+101 - 11 - JERSEYMAC                          
+101 - 12 - JONAGOLD                           
+101 - 13 - JONATHAN                           
+101 - 14 - MOLLIE'S DELICIOUS                 
+101 - 15 - MORGEDUFT                          
+101 - 16 - OZARK GOLD                         
+101 - 17 - RENETTA DI CHAMPAGNE               
+101 - 18 - RENETTA GRIGIA                     
+101 - 19 - RENETTA DEL CANADA                 
+101 - 20 - ROME BEAUTY                        
+101 - 21 - RUBRA PRECOCE                      
+101 - 22 - STARK DELICIOUS SPUR               
+101 - 23 - STARK DELICIOUS STANDARD           
+101 - 24 - STAYMAN                            
+101 - 25 - SUMMERED                           
+101 - 50 - ALTRE A MATURAZIONE ESTIVA         
+101 - 51 - ALTRE A MATURAZIONE AUTUNNALE      
+101 - 52 - ALTRE A MATURAZIONE INVERNALE      
+101 - 999 - ALTRE VARIETA'                     
+102 - 1 - ABATE FETEL                        
+102 - 2 - BUONA LUISA D'AVRANCHES            
+102 - 3 - BUTIRRA CLAIRGEAU                  
+102 - 4 - BUTIRRA D'ESTATE                   
+102 - 5 - BUTIRRA DURONDEAU                  
+102 - 6 - BUTIRRA GIFFARD                    
+102 - 7 - BUTIRRA HARDY                      
+102 - 8 - BUTIRRA PRECOCE MORETTINI          
+102 - 9 - CONFERENCE                         
+102 - 10 - CURATO (SPADONA INV.)              
+102 - 11 - DECANA D'INVERNO                   
+102 - 12 - DECANA DEL COMIZIO                 
+102 - 13 - FAVORITA DI CLAPP                  
+102 - 14 - GENERALE LECLERC                   
+102 - 15 - GENTILE BIANCA                     
+102 - 16 - GRUPPO COSCIA                      
+102 - 17 - GUYOT DR. J.                       
+102 - 18 - KAISER ALEXANDER                   
+102 - 19 - MADERNASSA                         
+102 - 20 - MAX RED BARTLET                    
+102 - 21 - PACHAM'S TRIUMPH                   
+102 - 22 - PASSA CRASSANA                     
+102 - 23 - PRECOCE DI ALTEDO                  
+102 - 24 - PRECOCE DI FIORANO                 
+102 - 25 - PRECOCE DI TREVOUX                 
+102 - 26 - S. MARIA MORETTINI                 
+102 - 27 - SCIPIONA                           
+102 - 28 - SPADONA ESTIVA                     
+102 - 29 - SPADONCINA                         
+102 - 30 - TRIONFO DI VIENNA                  
+102 - 31 - WILLIAM                            
+102 - 999 - ALTRE VARIETA'                     
+103 - 1 - COTOGNA                            
+201 - 1 - MORO                               
+201 - 2 - TAROCCO                            
+201 - 3 - SANGUINELLO                        
+201 - 4 - SANGUIGNO COMUNE                   
+201 - 5 - ALTRE VARIETA' PIGMENTATE          
+201 - 6 - GRUPPO NAVEL                       
+201 - 7 - BIONDO COMUNE                      
+201 - 8 - VALENCIA LATE                      
+201 - 9 - ALTRE VARIETA' BIONDE              
+201 - 10 - ARANCE AMARE                       
+202 - 1 - AVANA o AVANA APIRENO               
+202 - 2 - TARDIVO DI CIACULLI                
+202 - 999 - ALTRE VARIETA'                     
+203 - 1 - COMUNI                             
+203 - 2 - NULES                              
+203 - 999 - ALTRE VARIETA'                     
+204 - 1 - PRIMOFIORE                         
+204 - 999 - ALTRE VARIETA'                     
+205 - 1 - POLPA BIANCA                       
+205 - 2 - POLPA ROSA O ROSSA                 
+206 - 1 - TANGELO MAPO                       
+207 - 1 - SATSUMA                            
+299 - 1 - ALTRI AGRUMI                       
+301 - 1 - ADDIA                              
+301 - 2 - ALISO                              
+301 - 3 - BELLERUTI                          
+301 - 4 - BRIO                               
+301 - 5 - CARDINAL                           
+301 - 6 - CESENA                             
+301 - 7 - DANA                               
+301 - 8 - DOUGLAS                            
+301 - 9 - FAYETTE                            
+301 - 10 - FRANCESCO                          
+301 - 11 - GORELLA                            
+301 - 12 - HOLGAUNTLET                        
+301 - 13 - HONEOYE                            
+301 - 14 - LISTA                              
+301 - 15 - PAJARO                             
+301 - 16 - POCAOTAS                           
+301 - 17 - SAVIO                              
+301 - 18 - SERQUOIA                           
+301 - 19 - TIOFA                              
+301 - 20 - TORO                               
+301 - 21 - TRIBUTE                            
+301 - 22 - TUFTS                              
+301 - 999 - ALTRE VARIETA'                     
+302 - 1 - BLACK FATIN                        
+302 - 2 - DARROW SEL. BLAK JET               
+302 - 3 - DIRKSEN THORNLESS                  
+302 - 4 - HULL THORNLESS                     
+302 - 5 - THORNFREE                          
+302 - 6 - THORNLESS EVERGREEN                
+302 - 999 - ALTRE VARIETA'                     
+303 - 1 - COCAGNE                            
+303 - 2 - JONKEER VAN TEST                   
+303 - 3 - MAARSES PROMISE                    
+303 - 4 - PALADS SEMLING                     
+303 - 5 - PERFECTION                         
+303 - 6 - RED LAKE                           
+303 - 7 - RONDOM                             
+303 - 8 - ROTE HOLLAENDER                    
+303 - 9 - ROTE SPAETLESE                     
+303 - 10 - STANZA                             
+303 - 11 - VERSAILLES BLANC                   
+303 - 999 - ALTRE VARIETA'                     
+304 - 1 - BARON DE WAVRE                     
+304 - 2 - BOIS BLANC                         
+304 - 3 - CAMBY                              
+304 - 4 - FAIRVIEW                           
+304 - 5 - FALRED                             
+304 - 6 - GRADINA                            
+304 - 7 - HERITAGE                           
+304 - 8 - MALLING EXPLOIT                    
+304 - 9 - ROSSANA                            
+304 - 10 - SCHOENEMANN                        
+304 - 11 - SEL. 1088                          
+304 - 12 - SEL. 1415                          
+304 - 13 - SUMMER                             
+304 - 14 - TAYLOR                             
+304 - 15 - WILLAMETTE                         
+304 - 16 - ZEVA DUE                           
+304 - 17 - ZEVA RIFIORENTE                    
+304 - 999 - ALTRE VARIETA'                     
+305 - 1 - MIRTILLI                           
+401 - 1 - ALFONSO LAVALLEE                   
+401 - 2 - BARESANA                           
+401 - 3 - CARDINAL                           
+401 - 4 - EARLY CARAL                        
+401 - 5 - FLAME SEEDLESS                     
+401 - 6 - ITALIA                             
+401 - 7 - MARIA PIROVANO                     
+401 - 8 - MATILDE                            
+401 - 9 - MICHELE PALIERI                    
+401 - 10 - MOSCATO DI TERRACINA               
+401 - 11 - PERLETTE                           
+401 - 12 - PIZZUTELLO BIANCO                  
+401 - 13 - PRIMUS                             
+401 - 14 - REGINA                             
+401 - 15 - RUBY SEEDLESS                      
+401 - 16 - SULTANINA BIANCA                   
+401 - 17 - ZIBIBBO                            
+401 - 999 - ALTRE VARIETA'                     
+402 - 1 - AKOUMANKAKI                        
+402 - 2 - AMANKAKI                           
+402 - 3 - FUJI                               
+402 - 4 - HYAKUME                            
+402 - 5 - JIRO                               
+402 - 6 - KURO-KUMA                          
+402 - 7 - MACHIYA                            
+402 - 8 - MERCATELLI                         
+402 - 9 - TIPO                               
+402 - 10 - VAINIGLIA                          
+402 - 999 - ALTRE VARIETA'                     
+403 - 1 - ABBOTT                             
+403 - 2 - ALLISON                            
+403 - 3 - BRUNO                              
+403 - 4 - HAYWARD                            
+403 - 5 - MONTY                              
+403 - 999 - ALTRE VARIETA'                     
+404 - 1 - BABACO                             
+405 - 1 - AVOCADO                            
+406 - 1 - FICO                               
+407 - 1 - FICO D'INDIA                       
+408 - 1 - MELOGRANO                          
+499 - 1 - ALTRA FRUTTA                       
+501 - 1 - BORLOTTINO DI PRAGA                
+501 - 2 - BORLOTTO DI VIGEVANO               
+501 - 3 - BORLOTTO LINGUADIFUOCO             
+501 - 4 - BORLOTTO NANO                      
+501 - 5 - CANNELLINO                         
+501 - 6 - DI SPAGNA                          
+501 - 7 - RUBIGO                             
+501 - 8 - SCOZZESE                           
+501 - 9 - STREGONTA                          
+501 - 999 - ALTRE VARIETA'                     
+502 - 1 - CENTOGIORNI                        
+502 - 2 - PICCOLO PROVENZALE                 
+502 - 3 - PRECOCE DI AMNONAY                 
+502 - 4 - PRINCIPE ALBERTO                   
+502 - 5 - PROGRESS                           
+502 - 6 - QUARANTI DI IMOLA                  
+502 - 7 - SPTINTER                           
+502 - 8 - TACCOLA MANGIATUTTO                
+502 - 9 - TELEFONO NANO                      
+502 - 10 - TELEVISION                         
+502 - 11 - VERDONE DI PEGASO                  
+502 - 999 - ALTRE VARIETA'                     
+503 - 1 - BLUE LAKE                          
+503 - 2 - BOBIS                              
+503 - 3 - BURRO                              
+503 - 4 - HARVERSTAS                         
+503 - 5 - MARCONI                            
+503 - 6 - MERAVIGLIA DI VENEZIA              
+503 - 7 - PRIMEL                             
+503 - 8 - PROVIDER                           
+503 - 9 - SLANDERETTE                        
+503 - 999 - ALTRE VARIETA'                     
+504 - 1 - EXTRA PREC. GRANOVIOLETTO          
+504 - 2 - EXTRA PREC. GRANOBIANCO            
+504 - 3 - SUPERAGUADOLCE                     
+504 - 4 - SUPERSIVIGLIA                      
+504 - 999 - ALTRE VARIETA'                     
+601 - 1 - GENNARESE                          
+601 - 2 - NAPOLET. FEBBRARESE                
+601 - 3 - NAPOLET. MARZATICO                 
+601 - 4 - NAPOLET. NOVEMBRINO                
+601 - 5 - NAPOLET. NATALINO                  
+601 - 6 - PALLA DI NEVE                      
+601 - 7 - PRECOCE DI JESI                    
+601 - 8 - PRECOCE DI TOSCANA                 
+601 - 9 - TARDIVO DI FANO                    
+601 - 10 - TOLMU                              
+601 - 11 - WITE TOP                           
+601 - 999 - ALTRE VARIETA'                     
+602 - 1 - BROCCOLETTO O CIMA DI RAPA         
+602 - 2 - BROCCOLO CALABRESE                 
+602 - 3 - BROCCOLO ROMANESCO                 
+602 - 4 - CAPPUCCIO COPENHAGEN               
+602 - 5 - CAPPUCCIO DI BRUNSWICH             
+602 - 6 - CAVOLETTO DI BRUXELLES             
+602 - 7 - VERZA                              
+602 - 999 - ALTRE VARIETA'                     
+603 - 1 - DI NAPOLI                          
+603 - 2 - DOLCELUNGO DI FIRENZE              
+603 - 3 - DOMINO                             
+603 - 4 - GROSSO DI SICILIA                  
+603 - 5 - LATINA                             
+603 - 6 - MAMMOUTH                           
+603 - 7 - ROMANESCO                          
+603 - 8 - WADENROMEN                         
+603 - 999 - ALTRE VARIETA'                     
+604 - 1 - BARESANO                           
+604 - 2 - DI CASTELLAMMARE                   
+604 - 3 - MACAU                              
+604 - 4 - ROMANESCO                          
+604 - 5 - SPINOSO SARDO                      
+604 - 6 - VERDE DI PALERMO                   
+604 - 7 - VIOLETTO DI PALERMO                
+604 - 999 - ALTRE VARIETA'                     
+605 - 1 - CHIOGGIA                           
+605 - 2 - FIUMICINO                          
+605 - 3 - MEZZALUNGA DI NANTES               
+605 - 999 - ALTRE VARIETA'                     
+606 - 1 - BIANCA AGOSTANA                    
+606 - 2 - BIANCA DI BARLETTA                 
+606 - 3 - BIANCA DI GIUGNO                   
+606 - 4 - BIANCA DI MAGGIO                   
+606 - 5 - BIANCA DI NOCERA                   
+606 - 6 - DORATA DI PARMA                    
+606 - 7 - GIALLA DI MONDRAGONE               
+606 - 8 - IBRIDI PRECOCI                     
+606 - 9 - MAGGIAIOLA                         
+606 - 10 - RAMATA DI MILANO                   
+606 - 11 - ROSSA DI TROPEA                    
+606 - 999 - ALTRE VARIETA'                     
+607 - 1 - BIANCO DI ROVIGO                   
+607 - 2 - BIANCO NAPOLETANO                  
+607 - 3 - PIACENTINO                         
+607 - 4 - ROSSO DI SULMONA                   
+607 - 999 - ALTRE VARIETA'                     
+608 - 1 - GIGANTE D'INVERNO                  
+608 - 2 - HERAKLES                           
+608 - 3 - LUNGO RIVIERA                      
+608 - 4 - MOSTRUOSO DI CARENTAN              
+608 - 999 - ALTRE VARIETA'                     
+609 - 1 - BIANCA QUARANTINA                  
+609 - 2 - DELLE VIRTU'                       
+609 - 3 - MILANO A COLLETTO VIOLA            
+609 - 4 - NAVONA                             
+609 - 999 - ALTRE VARIETA'                     
+610 - 1 - DOLCE DI CHIOGGIA                  
+610 - 2 - PIATTA D'EGITTO                    
+610 - 999 - ALTRE VARIETA'                     
+611 - 1 - CANDELA DI GHIACCIO                
+611 - 2 - CHERRY BELLE                       
+611 - 3 - COMET                              
+611 - 4 - MEZZO LUNGO ROSSO                  
+611 - 5 - MEZZO LUNGO ROSSO PUNTA BIANCA     
+611 - 6 - ROSSO LUNGO                        
+611 - 7 - SAXA                               
+611 - 8 - TONDO ROSSO PUNTA BIANCA           
+611 - 999 - ALTRE VARIETA'                     
+612 - 1 - BIANCO DI BASSANO                  
+612 - 2 - DARBON                             
+612 - 3 - IBRIDI                             
+612 - 4 - PRECOCE D'ARGENTEUIL               
+612 - 5 - VERDI                              
+612 - 999 - ALTRE VARIETA'                     
+613 - 1 - CICORIA BIANCA DI MILANO           
+613 - 2 - CICORIA BIONDA DI GORIZIA          
+613 - 3 - CICORIA CATALOGNA FOGLIE STR. C0212
+613 - 4 - CICORIA CATALOGNA FOGLIE STR.      
+613 - 5 - CICORIA CATALOGNA FRASTAGLIATA     
+613 - 6 - CICORIA CATALOGNA FRASTAGLIATA C021
+613 - 7 - CICORIA DA TAGLIO                  
+613 - 8 - CICORIA DI BRUXELLES               
+613 - 9 - CICORIA DI MAGDEBURGO              
+613 - 10 - CICORIA GRUMOLO VERDE              
+613 - 11 - CICORIA PAN DI ZUCCHERO            
+613 - 12 - CICORIA PUNTARELLE DI GALATINA     
+613 - 13 - CICORIA SELVATICA DA CAMPO         
+613 - 14 - CICORIA VARIEGATA CASTELF.         
+613 - 15 - INDIVIA BULBI KOPF                 
+613 - 16 - INDIVIA FIORENTINA                 
+613 - 17 - INDIVIA FULL HEART                 
+613 - 18 - INDIVIA START                      
+613 - 19 - INSALATA CAPPUCCIO                 
+613 - 20 - INSALATE VARIE                     
+613 - 21 - LATTUGA CAPPUCCIO                  
+613 - 22 - LATTUGA JCEBERG                    
+613 - 23 - LATTUGA RICCIA                     
+613 - 24 - LATTUGA RICCIA ROSSA               
+613 - 25 - LATTUGA ROMANA                     
+613 - 26 - LATTUGA TROCADERO                  
+613 - 27 - LATTUGA VICCIA                     
+613 - 28 - LATTUGA VICCIA ROSSA               
+613 - 29 - LATTUGHINO                         
+613 - 30 - RADICCHIO ROSSO DI CHIOGGIA        
+613 - 31 - RADICCHIO ROSSO DI TREVISO         
+613 - 32 - RADICCHIO ROSSO DI VERONA          
+613 - 33 - RADICCHIO VERDE                    
+613 - 34 - RICCIA D'ITALIA                    
+613 - 35 - RICCIA DI PANCALIERI               
+613 - 36 - SCAROLA                            
+613 - 999 - ALTRE VARIETA'                     
+614 - 1 - DORATO D'ASTI                      
+614 - 2 - ELNE                               
+614 - 3 - UTAH                               
+614 - 4 - VERDE DA COSTA                     
+614 - 999 - ALTRE VARIETA'                     
+615 - 1 - IBRIDI                             
+615 - 2 - MOSTRUOSO VIROFLY                  
+615 - 3 - RICCIO D'ASTI                      
+615 - 999 - ALTRE VARIETA'                     
+616 - 1 - BIONDA COSTA ARGENTATA             
+616 - 2 - VERDE COSTA ARGENTATA              
+616 - 3 - VERDE DA TAGLIO                    
+616 - 999 - ALTRE VARIETA'                     
+617 - 1 - BIANCO AVORIO                      
+617 - 2 - PIENO INERME                       
+617 - 999 - ALTRE VARIETA'                     
+618 - 1 - BASILICO                           
+619 - 1 - COMUNE                             
+619 - 2 - GIGANTE D'ITALIA                   
+619 - 3 - NANO RICCIUTO                      
+619 - 999 - ALTRE VARIETA'                     
+620 - 1 - AGRETTI                            
+699 - 1 - ALTRI ORTAGGI                      
+701 - 1 - COSTOLUTI                          
+701 - 2 - DA FIOCCHI                         
+701 - 3 - NON INTERO o POLPA o TRIT            
+701 - 4 - TIPO DA SUCCO                      
+701 - 5 - TIPO PER CONCENTRATO               
+701 - 6 - TIPO ROMA E SIMILARI               
+701 - 7 - TIPO S. MARZANO                    
+701 - 8 - TONDO LISCIO                       
+701 - 999 - ALTRE VARIETA'                     
+702 - 1 - VIOLETTA LUNGA                     
+702 - 2 - VIOLETTA TONDA                     
+702 - 3 - BLACK BEAUTY                       
+702 - 4 - NITE                               
+702 - 999 - ALTRE VARIETA'                     
+703 - 1 - CALIFORNIA WONDER                  
+703 - 2 - CORNO DI BUE                       
+703 - 3 - DI CUNEO                           
+703 - 4 - GIALLO DI NOCERA                   
+703 - 5 - HELDOR                             
+703 - 6 - LAMUYO                             
+703 - 7 - MARCONI ROSSO                      
+703 - 8 - PEPERONCINO PICCANTE DI CAYENNA    
+703 - 9 - QUADRATO D'ASTI GIALLO             
+703 - 10 - QUADRATO D'ASTI ROSSO              
+703 - 11 - ROSSO DI NOCERA                    
+703 - 12 - SIGARETTA                          
+703 - 13 - SONAR                              
+703 - 14 - YOLO WONDER                        
+703 - 999 - ALTRE VARIETA'                     
+704 - 1 - PATATA                             
+801 - 1 - DI FAENZA                          
+801 - 2 - DIAMANTE                           
+801 - 3 - GREYZINI                           
+801 - 4 - GRISON                             
+801 - 5 - NANO VERDE MILANO                  
+801 - 6 - PRESIDENT                          
+801 - 7 - TARMINO                            
+801 - 999 - ALTRE VARIETA'                     
+802 - 1 - EUROMARKET                         
+802 - 2 - HARPER                             
+802 - 3 - RETATO DEGLI ORTOLANI              
+802 - 4 - SCOOP                              
+802 - 5 - STRATOS                            
+802 - 6 - SUPERMARKET                        
+802 - 7 - CANTALUPO CHARENTAIS               
+802 - 8 - HALES BEST                         
+802 - 9 - NAPOLETANO VERDE PRECOC.           
+802 - 10 - TAUNE CANARIA                      
+802 - 11 - TENDRAL TARDIVO                    
+802 - 999 - ALTRE VARIETA'                     
+803 - 1 - CHARLESTON GRAY                    
+803 - 2 - CRIMSON SWEET                      
+803 - 3 - SUGAR BABY                         
+803 - 999 - ALTRE VARIETA'                     
+804 - 1 - 1/2 LUNGOVERE CHIOGGIA             
+804 - 2 - CORTO DI PARIGI                    
+804 - 3 - CUBIT                              
+804 - 4 - MARKETER                           
+804 - 5 - PRESIDENT                          
+804 - 6 - ZENIT                              
+804 - 7 - 1/2 LUNGOLISCIO POLIGN             
+804 - 999 - ALTRE VARIETA'                     
+805 - 1 - ZUCCA                              
+901 - 1 - CRISTOMORTO                        
+901 - 2 - FASCIONELLO                        
+901 - 3 - FERRADUEL                          
+901 - 4 - FERRAGNES                          
+901 - 5 - FERRALISE                          
+901 - 6 - FERRASTAR                          
+901 - 7 - FILIPPO CEO                        
+901 - 8 - FRA GIULIO GRANDE                  
+901 - 9 - FRA GIULIO PICCOLA                 
+901 - 10 - GENCO                              
+901 - 11 - PIZZUTA D'AVOLA                    
+901 - 12 - RACHELE                            
+901 - 13 - SANTORO                            
+901 - 14 - TROITO                             
+901 - 15 - TUONO                              
+901 - 999 - ALTRE VARIETA'                     
+902 - 1 - CAMPONICA                          
+902 - 2 - MORTARELLA                         
+902 - 3 - NOCCHIONE                          
+902 - 4 - RICCIA DI TALANICO                 
+902 - 5 - SAN GIOVANNI                       
+902 - 6 - TONDA BIANCA                       
+902 - 7 - TONDA DI GIFFONI                   
+902 - 8 - TONDA GENTILE LANGHE               
+902 - 9 - TONDA GENTILE ROMANA               
+902 - 10 - TONDA ROSSA                        
+902 - 999 - ALTRE VARIETA'                     
+903 - 1 - FRANQUETTEDIN                      
+903 - 2 - GIUSTINE                           
+903 - 3 - HARTLEY                            
+903 - 4 - MIULAND                            
+903 - 5 - PAYNE                              
+903 - 6 - SEER                               
+903 - 7 - SORRENTO                           
+903 - 8 - TEHAMA                             
+903 - 999 - ALTRE VARIETA'                     
+904 - 1 - CASTAGNE                           
+905 - 1 - PISTACCHI                          
+906 - 1 - CARRUBE

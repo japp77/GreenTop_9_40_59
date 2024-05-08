@@ -1,0 +1,11 @@
+FrmPresentazione = 88, 116, 579, 552, , 22, 29, 513, 465, C
+Main = 44, 58, 535, 494, 
+ModAttivazione = 88, 116, 774, 584, 
+frmAzienda = 78, 78, 808, 520, , 0, 0, 491, 436, C
+ModRegistrazione = 110, 145, 796, 613, 
+ModProcessi = 132, 174, 818, 642, 
+frmConfigFiliale = 0, 0, 719, 442, , 88, 116, 723, 558, C
+frmConfigMenu = 0, 0, 719, 442, , 44, 58, 763, 500, C
+frmControlloVersioni = 286, 286, 1170, 936, , 260, 260, 1144, 910, C
+frmEseguiScript = 0, 0, 1080, 650, , 312, 312, 1392, 962, C
+frmControlloUtilizzo = 156, 156, 1166, 806, Z, 312, 312, 1330, 962, C
