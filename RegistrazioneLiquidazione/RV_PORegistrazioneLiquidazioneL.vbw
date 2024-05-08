@@ -1,0 +1,14 @@
+FrmMain = 26, 26, 1223, 676, , 78, 78, 1176, 712, C
+ModMain = 26, 26, 1124, 660, 
+Globali = 104, 104, 1223, 754, 
+ResourceConsts = 0, 0, 0, 0, C
+FrmNuovoPeriodo = 182, 182, 1248, 816, , 130, 130, 1228, 764, C
+FrmModificaPeriodo = 0, 0, 0, 0, C, 156, 156, 1254, 790, C
+CalcoloLiquidazione = 52, 52, 1150, 686, Z
+ModTMPLiquidazione = 208, 208, 1274, 842, 
+FrmVisualizzaLiquidazione = 156, 156, 1348, 806, , 182, 182, 1280, 816, C
+FrmDettaglioRigaElaborata = 0, 0, 0, 0, C, 208, 208, 1306, 842, C
+FrmInserimentoRighe = 0, 0, 0, 0, C, 234, 234, 1332, 868, C
+FrmFine = 286, 286, 1380, 920, , 260, 260, 1358, 894, C
+ModCalcoloLiqVenduto = 312, 312, 1452, 962, 
+frmVisDoc = 0, 0, 0, 0, C, 286, 286, 1384, 920, C
