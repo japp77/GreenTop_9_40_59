@@ -1,0 +1,2 @@
+Riga 581: la classe MSComctlLib.ListView del controllo LVFattureCreate non era una classe di controllo caricata.
+Riga 636: la classe MSComctlLib.ProgressBar del controllo ProgressBar1 non era una classe di controllo caricata.
